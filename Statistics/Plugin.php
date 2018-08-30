@@ -9,7 +9,7 @@
  * @package Statistics
  * @author  djspy
  * @version 1.0.0
- * @link    http://note.djspys.com
+ * @link    https://github.com/djspys1/statistics
  */
 class Statistics_Plugin implements Typecho_Plugin_Interface
 {
